@@ -1,4 +1,4 @@
- ### Code Snippet Manager ###
+ # Code Snippet Manager #
 A lightweight, browser-based Code Snippet Manager built with vanilla HTML, CSS, and JavaScript. This application allows you to store, organize, and manage your code snippets locally without needing a backend.
 
 ##  Demo
