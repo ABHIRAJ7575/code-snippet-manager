@@ -1,7 +1,11 @@
-Code Snippet Manager
+ ### Code Snippet Manager ###
 A lightweight, browser-based Code Snippet Manager built with vanilla HTML, CSS, and JavaScript. This application allows you to store, organize, and manage your code snippets locally without needing a backend.
 
-🚀 Features
+##  Demo
+
+**Live Preview:** [View Demo](#) _(https://abhiraj7575.github.io/code-snippet-manager/)_
+
+## Features
 Local Storage Persistence: All your snippets are saved directly in your browser's local storage.
 
 Real-time Search: Quickly filter through your collection by title, language, or code content.
@@ -16,14 +20,14 @@ Responsive Design: A clean, dark-themed UI that works on desktop and mobile devi
 
 Keyboard Shortcuts: Use Ctrl+S to save manually and Ctrl+N to create a new snippet.
 
-🛠️ Built With
+## Built With
 HTML5: Semantic structure and layout.
 
 CSS3: Custom styling with a dark-mode aesthetic and responsive flexbox layouts.
 
 Vanilla JavaScript: State management, local storage handling, and DOM manipulation.
 
-📦 Installation
+## Installation
 Since this project uses vanilla technologies and local storage, no installation is required.
 
 Clone the repository:
@@ -38,7 +42,7 @@ Bash
 cd code-snippet-manager
 Open index.html in your favorite web browser.
 
-🖥️ Usage
+## Usage
 Creating a Snippet: Click the "+ New" button in the sidebar to start a new entry.
 
 Editing: Select a snippet from the sidebar. You can edit the title, change the language, and paste your code into the editor.
@@ -49,5 +53,5 @@ Deleting: Click the trash icon in the editor header to permanently remove a snip
 
 Copying: Click the copy icon to copy the entire code block instantly.
 
-📄 License
+## License
 This project is open source and available under the MIT License.
